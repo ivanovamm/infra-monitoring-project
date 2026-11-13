@@ -1,0 +1,13 @@
+*.log
+*.tmp
+*.swp
+*~
+tmp/
+.DS_Store
+._*
+__MACOSX/
+.idea/
+.vscode/
+build/
+dist/
+target/
